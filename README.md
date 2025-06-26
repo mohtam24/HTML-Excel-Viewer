@@ -1,4 +1,5 @@
-# HTML-Excel-Viewer
+# Style Anweisungen
+
 diagram_style:
   layout: horizontal_tree # von links nach rechts
   root_node:
